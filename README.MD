@@ -3,7 +3,7 @@
 ## How to run?
 1. Environment variables
 2. Staticfiles 
-3. 3. Media
+3. Media
 
 
 ### Dictionary
